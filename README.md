@@ -1,8 +1,8 @@
-# 🛡️ AfricaNDR — AI-Powered Network Detection & Response
+# 🛡️ AfricaNDR 
 
-> Built for African infrastructure. Powered by AI. Deployable anywhere.
+AI-Powered Network Detection & Response
 
-[![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue?# AfricaNDR
+ Built for African infrastructure. Powered by AI. Deployable anywhere.
 
 Network level threat detection, built for African fintech infrastructure.
 
